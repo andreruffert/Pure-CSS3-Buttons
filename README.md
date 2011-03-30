@@ -1,1 +1,1 @@
-### Pure CSS3 Buttons (even for IE 6-8, and more)
+### Pure CSS3 Buttons (even for IE 6-8, and more)### Pure CSS3 Buttons (cross-browser even for IE 6-8, and more)### Pure CSS3 Buttons (cross-browser even for IE 6-8, and more)
